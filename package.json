@@ -1,0 +1,28 @@
+{
+  "name": "tip-calculator",
+  "version": "1.0.0",
+  "description": "Tip calculator adaptive SPA written in React.js",
+  "main": "index.js",
+  "scripts": {
+    "serve": "browser-sync start --server --files '*.html' '*.js' '*.css' --port 4200",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebedevaanastasiya/tip-calculator.git"
+  },
+  "keywords": [
+    "tip",
+    "calculator",
+    "react"
+  ],
+  "author": "Lebedeva Anastasiya",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lebedevaanastasiya/tip-calculator/issues"
+  },
+  "homepage": "https://github.com/lebedevaanastasiya/tip-calculator#readme",
+  "devDependencies": {
+    "browser-sync": "^2.29.3"
+  }
+}
